@@ -12,3 +12,4 @@ Add more obstacle:
 We right click On the star and click duplicate and we have a another star.For the same code is top of the another van for that we use wait 1 second and four don’t existence another is start middle of the screen to be use hide and show.
 Keeping score:
 Click on variable and then make a very bills and type a score a two track of the players score.And winter player loses into project restarts we can set the score back to zero.Every time they play care management to complete a job he can increase the score by change a score by 1.
+submit  cs50/problems/2021/x/project
